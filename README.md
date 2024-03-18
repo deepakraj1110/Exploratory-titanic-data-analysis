@@ -1,1 +1,1 @@
-# Exploratory-titanic-data-analysis
+# Exploratory titanic data analysis using Python
